@@ -23,7 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Title ---
-st.markdown("<h1 style='text-align: center; color: #00adb5;'>🚀 Saad Project Launcher Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #00adb5;'>🚀 Saqqy Project Launcher Dashboard</h1>", unsafe_allow_html=True)
 st.write("")
 
 # --- Static Buttons using Columns ---
@@ -50,4 +50,5 @@ with col4:
 
 # --- Footer ---
 st.markdown("<hr>", unsafe_allow_html=True)
+
 st.info("Make sure CRS (8501), BFS (8502), LVPC (8504), and SPP (8503) are running before launching them 🚀.")
